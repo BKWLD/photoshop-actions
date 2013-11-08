@@ -1,7 +1,7 @@
 # BKWLD Photoshop Actions
 
 
-### Save layer for web
+### Save layers for web
 
 Actions that help you create sprites from a PSD.  I use these all the time and have them mapped to F1 and F2, respectively.
 
