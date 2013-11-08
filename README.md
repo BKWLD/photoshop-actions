@@ -1,5 +1,6 @@
 # BKWLD Photoshop Actions
 
+These were developed against the latest Photoshop CC version.
 
 ### Save layers for web
 
